@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @catch6
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning Java JVM
-- 💞️ I’m looking to collaborate on China Beijing
-- 📫 How to reach me : shiny-life-(WeChat)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=catch6&count_private=true&show_icons=true&theme=gruvbox)
 
-<!---
-catch6/catch6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catch6&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

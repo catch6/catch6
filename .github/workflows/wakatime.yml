@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # 凌晨 2 点 18 执行，中国时区比 Github 所在时区早 8 个小时
+    - cron: '18 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
