@@ -7,15 +7,13 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catch6&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C288%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 71.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,13 +48,16 @@ Sunday                   280 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.00 % 
+HTML                     13 mins             █████████████░░░░░░░░░░░░   53.22 % 
+SQL                      8 mins              ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 
 🔥 Editors: 
-DataGrip                 0 secs              █████████████████████████   100.00 % 
+Trae                     17 mins             █████████████████░░░░░░░░   66.96 % 
+DataGrip                 8 mins              ████████░░░░░░░░░░░░░░░░░   33.04 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
