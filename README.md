@@ -7,13 +7,15 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catch6&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C291%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 71.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,13 +50,18 @@ Sunday                   280 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SQL                      8 mins              █████████████████████████   100.00 % 
+HTML                     41 mins             ████████████████░░░░░░░░░   63.32 % 
+SQL                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-DataGrip                 8 mins              █████████████████████████   100.00 % 
+Trae                     57 mins             ██████████████████████░░░   86.84 % 
+DataGrip                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
