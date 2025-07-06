@@ -15,6 +15,8 @@
 
 > 📦 71.7 kB Used in GitHub's Storage 
  > 
+> 🏆 74 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 57 Public Repositories 
@@ -48,15 +50,13 @@ Sunday                   288 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████████████░░░░   85.12 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
