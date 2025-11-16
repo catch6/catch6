@@ -7,8 +7,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catch6&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C299%20hrs%2059%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -23,42 +21,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                455 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-🌆 Daytime                1279 commits        ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                1106 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌙 Night                  245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Wednesday                601 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Thursday                 828 commits         ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Friday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Saturday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Sunday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
